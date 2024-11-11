@@ -1,1 +1,2 @@
 # python_calculator
+Created a user-friendly calculator app using Python and Tkinter, with color-coded buttons for easy use. It performs basic arithmetic (addition, subtraction, multiplication, division) as well as advanced functions like exponentiation, square, and cube. Designed with a clean layout and error handling for division by zero, making it both practical and visually appealing. Showcases skills in Python and GUI design.
